@@ -1,0 +1,4 @@
+La chica de nieve;Javier Castillo;Thriller;2020;images/chicanieve.jpg;
+El Príncipe de la Niebla;Carlos Ruiz Zafon;Misterio;1993;images/marina.jpg;
+La pareja de al lado;Shari Lapena;Thriller;2020;images/pareja.jpg;
+Tierra;Eloy Moreno;Thriller;2020;images/tierra.jpg;
